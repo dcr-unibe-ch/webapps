@@ -1,4 +1,6 @@
-# DCR webapps
+---
+title: "DCR webapps"
+---
 
 This site hosts a couple of small webapps developed at DCR. 
 
